@@ -1,3 +1,3 @@
-New Loruki Website.
-Using HTML and CSS without JavaSCript.
+# Loruki - Website
+using HTML and CSS only.
 
