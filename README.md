@@ -1,3 +1,4 @@
-# Loruki - Website
-using HTML and CSS only.
+# LORUKI - WEBSITE
+
+Front End project (HTML and CSS)
 
